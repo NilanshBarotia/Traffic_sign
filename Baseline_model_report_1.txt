@@ -1,0 +1,60 @@
+                              precision    recall  f1-score   support
+
+           Bicycles crossing       0.26      0.59      0.36        27
+           Children crossing       0.92      0.65      0.76        17
+                Danger Ahead       0.00      0.00      0.00         4
+ Dangerous curve to the left       0.61      0.41      0.49        34
+Dangerous curve to the right       0.82      0.64      0.72        22
+                Dont Go Left       0.97      0.69      0.81       106
+       Dont Go Left or Right       1.00      0.53      0.69        17
+               Dont Go Right       1.00      0.53      0.70        73
+            Dont Go straight       0.79      0.82      0.81        51
+    Dont Go straight or left       0.00      0.00      0.00        11
+     Dont overtake from Left       0.00      0.00      0.00        12
+                      Fences       0.00      0.00      0.00        19
+                    Give Way       0.00      0.00      0.00         2
+                     Go Left       0.00      0.00      0.00         6
+            Go Left or right       0.00      0.00      0.00        10
+                    Go Right       0.00      0.00      0.00        22
+         Go left or straight       0.00      0.00      0.00        18
+        Go right or straight       0.11      0.01      0.02        92
+                 Go straight       0.00      0.00      0.00         9
+        Go straight or right       0.00      0.00      0.00         2
+     Heavy Vehicle Accidents       0.00      0.00      0.00         2
+                        Horn       0.00      0.00      0.00        19
+                      No Car       0.00      0.00      0.00        62
+                    No Uturn       0.00      0.00      0.00        25
+                    No entry       0.00      0.00      0.00        44
+                     No horn       0.00      0.00      0.00        65
+                 No stopping       0.04      0.01      0.02       141
+                Road Divider       0.00      0.00      0.00         9
+        Roundabout mandatory       0.00      0.00      0.00        21
+        Speed limit (15km/h)       0.00      0.00      0.00         9
+        Speed limit (30km/h)       0.00      0.00      0.00        50
+        Speed limit (40km/h)       0.07      0.11      0.09        75
+        Speed limit (50km/h)       0.00      0.00      0.00        44
+         Speed limit (5km/h)       0.00      0.00      0.00        12
+        Speed limit (60km/h)       0.00      0.00      0.00        41
+        Speed limit (70km/h)       0.09      0.48      0.15        23
+              Train Crossing       0.00      0.00      0.00        10
+          Under Construction       0.00      0.00      0.00         4
+                    Unknown1       0.00      0.00      0.00         7
+                    Unknown2       0.00      0.00      0.00         6
+                    Unknown3       0.00      0.00      0.00        14
+                    Unknown4       0.00      0.00      0.00         2
+                    Unknown5       0.06      0.03      0.04        33
+                    Unknown6       0.00      0.00      0.00        24
+                    Unknown7       0.00      0.00      0.00        32
+                    Unknown8       0.00      0.00      0.00         1
+                       Uturn       0.00      0.00      0.00        13
+              Zebra Crossing       0.00      0.00      0.00        38
+                ZigZag Curve       0.00      0.00      0.00        10
+                   keep Left       0.00      0.00      0.00         2
+                  keep Right       0.05      0.01      0.02       104
+        speed limit (80km/h)       0.00      0.00      0.00        39
+          watch out for cars       0.00      0.00      0.00        61
+
+                   micro avg       0.16      0.15      0.16      1596
+                   macro avg       0.13      0.10      0.11      1596
+                weighted avg       0.20      0.15      0.16      1596
+
